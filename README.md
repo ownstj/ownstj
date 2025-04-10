@@ -8,43 +8,7 @@
 
 
 <h1 align="center">👋 안녕하세요! 저는 오준서입니다!</h1>
-<h3 align="center">💻 개발자 | 🌱 오픈소스 기여자 | 🎨 창의적 문제 해결사</h3>
-
----
-
-<!-- 소개 섹션 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" width="200" alt="Profile Picture">
-</p>
-
-<p align="center">
-  저는 자취생로 활동하고 있으며, 스터디에 열정을 가지고 있습니다. <br>
-  항상 새로운 것을 배우고, 더 나은 세상을 만들기 위해 노력합니다. 🚀
-</p>
-
----
-
-<!-- 기술 스택 -->
-<h2 align="center">🛠️ 기술 스택</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-</p>
-
----
-
-<!-- GitHub 통계 -->
-<h2 align="center">📊 GitHub 통계</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ownstj&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ownstj&theme=radical" alt="GitHub Streak Stats">
-</p>
+<h3 align="center">💻 개발자 </h3>
 
 ---
 
