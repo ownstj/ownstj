@@ -1,5 +1,5 @@
 <!-- 헤더 섹션 -->
-<h1 align="center">👋 안녕하세요! 저는 [당신의 이름]입니다!</h1>
+<h1 align="center">👋 안녕하세요! 저는 오준서입니다!</h1>
 <h3 align="center">💻 개발자 | 🌱 오픈소스 기여자 | 🎨 창의적 문제 해결사</h3>
 
 ---
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  저는 [당신의 직업/분야]로 활동하고 있으며, [특정 기술/도구]에 열정을 가지고 있습니다. <br>
+  저는 자취생로 활동하고 있으며, 스터디에 열정을 가지고 있습니다. <br>
   항상 새로운 것을 배우고, 더 나은 세상을 만들기 위해 노력합니다. 🚀
 </p>
 
@@ -31,11 +31,11 @@
 <!-- GitHub 통계 -->
 <h2 align="center">📊 GitHub 통계</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ownstj&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ownstj&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 ---
